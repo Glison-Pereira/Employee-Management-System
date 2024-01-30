@@ -1,1 +1,1 @@
-# Employee-Management-System
+Employee Management System is a website created using web and Java technologies [Frontend(HTML,CSS,JS) , Backend(JSP,JDBC), Database (MySQL)]. With Employee Management system, you can add, delete, view as well as update employee status.
