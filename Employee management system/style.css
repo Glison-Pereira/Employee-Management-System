@@ -1,0 +1,62 @@
+body{
+  background-image:url('https://www.pockethrms.com/wp-content/uploads/2022/01/Happy-Workforce.jpg');
+}
+
+*{
+ text-align:center;
+ font-size:50px;
+ font-family:cursive;
+ color:red;
+ font-style:italic;
+}
+
+.btn{
+  font-size:20px;
+  color:white;
+  background-color:red;
+  border-radius:20px
+}
+
+.bttn{
+  font-size:20px;
+  color:white;
+  background-color:blue;
+  border-radius:20px
+}
+
+form{
+  background-image:url('https://i0.wp.com/juntrax.com/blog/wp-content/uploads/2021/01/Employee-Management-System.jpg?resize=840%2C480&ssl=1');
+  border-width:thin;
+  border-style:solid;
+  margin-left:350px;
+  margin-right:350px;
+}
+
+h2{
+  font-size:20px;
+}
+
+input{
+  font-size:20px;
+  color:black;
+}
+
+h3{
+  margin:0px;
+}
+
+hr{
+  margin:10px;
+  background-color:black;
+  height: 2px;
+}
+
+.herald{
+  background-color: aquamarine;
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  font-size:20px;
+  color:black;
+  overflow-y: scroll;
+}
